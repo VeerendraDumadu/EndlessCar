@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EndlessRunnerScripts/EndlessRunner.cs">
+    <Files>
+      <File FileName="Assets/Temple.cs" Line="76" Column="1" />
+      <File FileName="Assets/Scripts/Cubemove.cs" Line="55" Column="4" />
+      <File FileName="Assets/Scripts/Gameover.cs" Line="11" Column="27" />
+      <File FileName="Assets/Scripts/Mainmenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Plyermotor.cs" Line="1" Column="1" />
+      <File FileName="Assets/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/Unity-Endless-Runner-master/Scripts/EndlessRunner.cs" Line="56" Column="9" />
+      <File FileName="Assets/EndlessRunnerScripts/PlayerScript.cs" Line="15" Column="29" />
+      <File FileName="Assets/EndlessRunnerScripts/EndlessRunner.cs" Line="467" Column="1" />
+      <File FileName="Assets/EndlessRunnerScripts/TouchGestures.cs" Line="1" Column="1" />
+      <File FileName="Assets/EndlessRunnerScripts/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/EndlessRunnerScripts/ObjectPool.cs" Line="1" Column="1" />
+      <File FileName="Assets/EndlessRunnerScripts/TiltGestures.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
